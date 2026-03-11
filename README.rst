@@ -1,6 +1,6 @@
-=========================================================
-CUWP: Chemical Upcycling of Waste Plastics Process Models
-=========================================================
+==========================================
+CUWP: Chemical Upcycling of Waste Plastics
+==========================================
 
 .. image:: http://img.shields.io/pypi/v/biorefineries.svg?style=flat
    :target: https://pypi.python.org/pypi/cuwp
