@@ -1,0 +1,77 @@
+{
+    "total_solvent": 6000,
+    "total_PE": 300,
+    "tau_solv_feed_tank": 3,
+    "tau_feeder": 3,
+    "tau_dissolution_vessel": 1,
+    "tau_precipitation_vessel": 0.166,
+    "heating_temp_after_dissolution": 363.15,
+    "heating_temp_after_dissolution_EVOH": 368.15,
+    "heating_temp_after_dissolution_PET": 398.15,
+    "cooling_temp_after_precipitation": 308.15,
+    "splits_hot_filter": {
+        "C2H4": 0.716,
+        "Dodecane": 0.9
+    },
+    "splits_filter": {
+        "C2H4": 1,
+        "Dodecane": 0.15
+    },
+    "splits_dryer": {
+        "C2H4": 0,
+        "Dodecane": 1
+    },
+    "splits_hot_filter_EVOH": {
+        "C2H4": 0.37,
+        "Dodecane": 0.5
+        },
+    "splits_filter_EVOH": {
+        "C2H4": 1,
+        "Dodecane": 0.028
+            },
+    "splits_dryer_EVOH": {
+        "C2H4": 0,
+        "Dodecane": 1
+        },
+    "splits_hot_filter_PET": {
+            "C2H4": 1,
+            "gamma-Valerolactone": 0.028,
+            "glucose": 0
+        },
+    "splits_filter_PET": {
+        "gamma-Valerolactone": 1,
+        "glucose": 0.6
+        },
+    "splits_dryer_PET": {
+            "C2H4": 0,
+            "gamma-Valerolactone": 1
+                },
+    "temp_dryer": 383.75,
+    "temp_condenser": 283.15,
+    "year_operation_hours": 8000,
+    "power_utility_price": 0.07,
+    "CE": 776.9,
+    "IRR": 0.10,
+    "duration": [2022, 2042],
+    "Lang_factor": 3.63,
+    "OSBL_factor": 0.3,
+    "Engineering": 0.15,
+    "Contingency": 0.2,
+    "Annualization_factor": 0.117459624772546,
+    "Salariy_per_operator": 208050,
+    "Benefits_and_overhead": 0.5,
+    "Maintenance": 0.03,
+    "Insurance": 0.007,
+    "Rent_land": 0.01,
+    "Shift_operators": 1,
+    "Economic_lifetime": 20,
+    "Tax_rate": 0.25,
+    "Price": {
+        "solvent": 2.17
+    },
+    "Extruder": {
+        "capacity_paratemer": 15e6,
+        "cost_parameter": 3858780,
+        "operating_cost_parameter": 325
+    }
+}

@@ -31,6 +31,11 @@ To get the git version, run:
 
     $ git clone https://github.com/BioSTEAMDevelopmentGroup/CUWP.git
 
+Getting started
+---------------
+A tutorial to create STRAP process models is available in cuwp/tutorials.
+Additional codes featured here include case studies and old STRAP codes.
+
 Bug reports
 -----------
 
