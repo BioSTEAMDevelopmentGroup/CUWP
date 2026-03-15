@@ -33,7 +33,7 @@ To get the git version, run:
 
 Getting started
 ---------------
-A tutorial to create STRAP process models is available in cuwp/tutorials.
+A tutorial to create STRAP process models is available in cuwp/notebooks.
 Additional codes featured here include case studies and old STRAP codes.
 
 Bug reports
