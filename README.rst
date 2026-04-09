@@ -14,8 +14,10 @@ CUWP: Chemical Upcycling of Waste Plastics
 What is CUWP?
 -------------
 
-CUWP is a repository for complete process models and results for plastic upcycling technologies in BioSTEAM. The repository is meant to 
-foster accessibility and deeper communication within the plastic upcycling community. All models are in the installable "cuwp" package.
+CUWP is a repository for complete process models and results for plastic 
+upcycling and conversion technologies in BioSTEAM. The repository is meant to 
+foster accessibility and deeper communication within the research community. 
+All models are in the installable "cuwp" package.
 
 Installation
 ------------
@@ -33,7 +35,11 @@ To get the git version, run:
 
 Getting started
 ---------------
-A tutorial to create STRAP process models is available in cuwp/notebooks.
+The following tutorials are available in cuwp/notebooks:
+
+* Solvent targeted plastic dissolution and precipitation
+* Pyrolysis of waste tires
+
 Additional codes featured here include case studies and old STRAP codes.
 
 Bug reports

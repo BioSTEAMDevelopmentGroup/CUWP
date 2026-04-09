@@ -11,18 +11,20 @@ setup(
     name='cuwp',
     packages=['cuwp'],
     license='MIT',
-    version='0.0.3',
+    version='0.0.4',
     description="Chemical Upcycling of Waste Plastics Process Models",
     long_description=open('README.rst', encoding='utf-8').read(),
     author='Yoel Cortes-Pena',
-    install_requires=['biosteam>=2.52.21',
-                      'biorefineries>=2.34.10'],
+    install_requires=['biosteam>=2.53.0',
+                      'biorefineries>=2.35.0'],
     python_requires=">=3.12",
     package_data={
         'plastics': [
             'cytiva',
             'strap/*',
             'strap/data/*',
+            'pyrolysis',
+            'pyrolysis/data/*',
         ]
     },
     platforms=['Windows', 'Mac', 'Linux'],
